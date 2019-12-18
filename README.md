@@ -20,27 +20,7 @@ Fork and clone this repo and open `lib/math.rb`. You'll find a bunch of empty
 methods that take numbers as arguments. Build the appropriate behavior for each
 of the following methods:
 
-def addition(num1, num2)
-  return num1 + num2
-end
 
-def subtraction(num1, num2) 
-  return num1 - num2
-end
-
-def multiplication(num1, num2) 
-  return num1 * num2
-end
-
-def division(num1, num2) 
-  return num1 / num2
-end
-
-def modulo(num1, num2)
-  return num1 % num2
-end
-
-def 
 - `addition` - Build the method `addition` that adds `num2` to `num1` and returns the result of this calculation
 - `subtraction` - Build the method `subtraction` that subtracts `num2` from
   `num1` and returns the result of this calculation
